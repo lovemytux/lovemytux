@@ -1,6 +1,6 @@
 # lovemytux
 
-DevOps engineer from Greece [@Speedcast-SIGMA](https://www.speedcast.com/), passionate about Linux, open source, gaming and Otaku culture!
+DevOps engineer from Greece, working [@Speedcast-SIGMA](https://www.speedcast.com/), passionate about Linux, open source, gaming and Otaku culture!
 
 ## Favorite tools, libs, distros
 
